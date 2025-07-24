@@ -1,8 +1,5 @@
 # Axus-Travel-App-Demo-project
- visual carousel demo showcasing personalized travel itineraries using the Axus Travel App.
-# Axus Travel Carousel
-
-This repository contains a PDF carousel presentation that visually demonstrates how travelers can explore custom itineraries using the Axus App. 
+This repository contains a visual PDF carousel demo showcasing personalized travel itineraries using the Axus Travel App.
 
 🔸 Includes:
 - Day-by-day itinerary visuals  
