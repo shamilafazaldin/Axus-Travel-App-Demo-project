@@ -8,7 +8,7 @@ This repository contains a visual PDF carousel demo showcasing personalized trav
 
 🧭 Created as part of a travel tech portfolio project.
 
-📄 [View the full Axus Carousel PDF with clickable links] (https://github.com/shamilafazaldin/Axus-Travel-App-Demo-project/blob/main/Executive_Travel_Planner_Carousel.pdf)  
+📄 [View the full Axus Carousel(https://github.com/shamilafazaldin/Axus-Travel-App-Demo-project/blob/main/Executive_Travel_Planner_Carousel.pdf)  
 
 
 
