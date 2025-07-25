@@ -8,6 +8,8 @@ This repository contains a visual PDF carousel demo showcasing personalized trav
 
 🧭 Created as part of a travel tech portfolio project.
 
+🔗 Link to Itenerary google docs (https://docs.google.com/document/d/1j57nMIf_KvUozl4BPo4bpY1C7ah7XJjDmHnWz_N9Ux4/edit?usp=drivesdk)
+
 📄 [View the full Axus Carousel(https://github.com/shamilafazaldin/Axus-Travel-App-Demo-project/blob/main/Executive_Travel_Planner_Carousel.pdf)  
 
 
